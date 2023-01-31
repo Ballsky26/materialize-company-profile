@@ -27,6 +27,7 @@ p {
     filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.9));
 }
 
-section {
-    padding: 20px 0;
+section,
+footer {
+    padding: 10px 0;
 }
