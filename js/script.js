@@ -14,3 +14,7 @@ M.Slider.init(slider, {
 // Parallax
 const parallax = document.querySelectorAll('.parallax');
 M.Parallax.init(parallax);
+
+// Portfolio
+const materialbox = document.querySelectorAll('.materialboxed');
+M.Materialbox.init(materialbox);
